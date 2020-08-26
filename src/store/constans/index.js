@@ -1,0 +1,4 @@
+export const LIST_ALL = 'LIST_ALL';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const UPDATE_TO_CART ='UPDATE-TO_CART';
+export const DELETE_PRODUCT_TO_CART="DELETE_PRODUCT_TO_CART";
